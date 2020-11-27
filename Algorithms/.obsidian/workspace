@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "a1d9446c54f88965",
+    "type": "split",
+    "children": [
+      {
+        "id": "038bfd2f18b1cf9d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DynamicProgramming/DynamicProgrammingAwesome.md",
+            "mode": "source"
+          }
+        },
+        "group": "3e033ac679a2df87"
+      },
+      {
+        "id": "f08dbca7cd3fccf7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "group": "3e033ac679a2df87"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6299f40f5e36413",
+    "type": "split",
+    "children": [
+      {
+        "id": "33ed480a2cae40c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5eab914897602ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c4c3ea079317eaa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f38681e948100f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "98037df83deecf29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84b8635582f897d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "DynamicProgramming/DynamicProgrammingAwesome.md",
+    "DynamicProgramming/Properties/Overlapping Subproblems.md",
+    "DynamicProgramming/Implementations/Edit Distance.md",
+    "DynamicProgramming/Properties/Optimal Substructure.md",
+    "DynamicProgramming/Untitled.md",
+    "DynamicProgramming/Optimal Substructure.md",
+    "DynamicProgramming/Overlapping Subproblems.md",
+    "DynamicProgramming/Implementations/Untitled.md",
+    "DynamicProgramming/Implementations/Untitled 1.md",
+    "Optimal Substructure.md"
+  ]
+}

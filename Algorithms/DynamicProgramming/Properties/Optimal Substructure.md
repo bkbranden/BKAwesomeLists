@@ -1,0 +1,2 @@
+# Optimal Substructure
+[[DynamicProgrammingAwesome]]
